@@ -5,7 +5,7 @@ import (
 	"database/sql"
 	_ "github.com/mattn/go-sqlite3"
 	"log"
-	"webserver/Util"
+	"RESTapi/Util"
 )
 
 type User struct {

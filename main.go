@@ -5,7 +5,7 @@ import (
 	"github.com/gotschmarcel/goserv"
 	"log"
 	"net/http"
-	"webserver/Models"
+	"RESTapi/Models"
 )
 
 type DataBase struct {
