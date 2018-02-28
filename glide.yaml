@@ -1,0 +1,6 @@
+package: RESTapi
+import:
+- package: github.com/gotschmarcel/goserv
+  version: ^1.0.3
+- package: github.com/mattn/go-sqlite3
+  version: ^1.6.0
